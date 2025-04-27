@@ -19,4 +19,4 @@ False # nepravda
 print(5 > 3)  # Výstup: True
 
 
-a
+#Toto je komentář z mobilu
