@@ -35,3 +35,4 @@ else:   #toto znamená JINAK - čili pokud není splněna podmínka, tak se prov
 #  |                 Ne
 #  |
 #  |--> "Cena lístku je 200 Kč."
+#test pripojeni
